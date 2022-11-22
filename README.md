@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Naveenkumar G h
-- 👀 I’m interested in Artifical intelligence and machine learning
+- 👋 Hi, I’m Naveenkumar G H 👀 I’m interested in Artifical intelligence and machine learning
 - 🌱 I’m currently Working in Boeing india for International Space station project.
 - 💞️ I’m looking to collaborate on Artifical Intelligence in Aerospace Domain.
 - 📫 How to reach me Email : Naveenkumar1694@gmail.com
